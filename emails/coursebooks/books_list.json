@@ -4,26 +4,19 @@
       "id": "book1",
       "title": "Planing_book",
       "pages": 160,
-      "folder": "book1-python-basics"
+      "folder": "book1-planing"
     },
     {
       "id": "book2",
       "title": "لتکس با هوش مصنوعی",
       "pages": 170,
-      "folder": "book2-ai-intro"
+      "folder": "book2-latex"
     },
-        {
+    {
       "id": "book3",
       "title": "friends",
       "pages": 180,
-      "folder": "book2-ai-intro"
-    },
-           {
-      "id": "book3",
-      "title": "ممد باقر",
-      "pages": 180,
-      "folder": "book2-ai-intro"
+      "folder": "book3-friends"
     }
-    
   ]
 }

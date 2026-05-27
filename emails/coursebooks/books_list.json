@@ -17,6 +17,13 @@
       "title": "Claude Coding",
       "pages": 180,
       "folder": "book3-Claude Coding"
+    },
+
+     {
+      "id": "book3",
+      "title": "مدل های بزرگ زبانی چطور کار میکنن؟",
+      "pages": 180,
+      "folder": "book4-LLM"
     }
   ]
 }

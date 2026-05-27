@@ -1,1 +1,16 @@
-22
+{
+  "books": [
+    {
+      "id": "book1",
+      "title": "Planing_book",
+      "pages": 160,
+      "folder": "book1-python-basics"
+    },
+    {
+      "id": "book2",
+      "title": "لتکس با هوش مصنوعی",
+      "pages": 170,
+      "folder": "book2-ai-intro"
+    }
+  ]
+}

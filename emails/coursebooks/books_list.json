@@ -11,6 +11,12 @@
       "title": "لتکس با هوش مصنوعی",
       "pages": 170,
       "folder": "book2-ai-intro"
+    },
+        {
+      "id": "book3",
+      "title": "یادگیری زبان با فرندز",
+      "pages": 180,
+      "folder": "book2-ai-intro"
     }
   ]
 }
